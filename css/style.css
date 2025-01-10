@@ -1,0 +1,89 @@
+/* Start Variables */
+:root {
+  --main-color: #54372a;
+  --second-color: #df582e;
+  --text-color: #060413;
+  --container-color: #f8e4be;
+  --bg-color: #f9f6f2;
+  --text-alter-color: #94908e;
+  --poppins-font: "Poppins", serif;
+  --playfair-font: "Playfair Display", serif;
+}
+/* End Variables */
+/* Start Global Rules */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", serif;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+}
+/* Small Screen*/
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium Screen*/
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large Screen*/
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* Start Main Heading */
+h1.main-heading {
+  margin-bottom: 65px;
+  text-align: center;
+  line-height: 1.6;
+  font-family: var(--playfair-font);
+}
+@media (max-width: 768px) {
+  h1.main-heading {
+    font-size: 25px;
+  }
+}
+/* End Main Heading */
+/* Start Scroll Up Button */
+span.up {
+  display: none;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  padding: 5px;
+  color: white;
+  background-color: var(--main-color);
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 100;
+}
+span.up.active {
+  display: inline;
+}
+/* End Scroll Up Button */
+/* End Global Rules */
+/* Start Header Section */

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cafe/static/css/main.89e056aa.css",
+    "main.js": "/cafe/static/js/main.8482001d.js",
+    "static/media/hero.png": "/cafe/static/media/hero.f878c66632dad0079ad5.png",
+    "static/media/team-3.png": "/cafe/static/media/team-3.ba93ceead2b895ea4879.png",
+    "static/media/team-2.png": "/cafe/static/media/team-2.cf45c80798000daac7a7.png",
+    "static/media/book.jpg": "/cafe/static/media/book.2cd05edecd1bdee91399.jpg",
+    "static/media/team-1.png": "/cafe/static/media/team-1.62104890b6523cd6544f.png",
+    "static/media/product-2.png": "/cafe/static/media/product-2.f57443a116cc640b9a87.png",
+    "static/media/product-1.png": "/cafe/static/media/product-1.27bae20620159dd08039.png",
+    "static/media/review-2.jpg": "/cafe/static/media/review-2.a49a0850665641014e61.jpg",
+    "static/media/product-6.png": "/cafe/static/media/product-6.0437a335d5c718c5c997.png",
+    "static/media/product-3.png": "/cafe/static/media/product-3.3da7d4b0a562472d0d2a.png",
+    "static/media/review-1.jpg": "/cafe/static/media/review-1.f6df4bd21bb33ba5dd9f.jpg",
+    "static/media/product-4.png": "/cafe/static/media/product-4.3ceabc40fc96acd48dc7.png",
+    "static/media/review-3.jpg": "/cafe/static/media/review-3.57601b541874245b3999.jpg",
+    "static/media/product-5.png": "/cafe/static/media/product-5.5484a9b20081b41072b3.png",
+    "index.html": "/cafe/index.html",
+    "main.89e056aa.css.map": "/cafe/static/css/main.89e056aa.css.map",
+    "main.8482001d.js.map": "/cafe/static/js/main.8482001d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e056aa.css",
+    "static/js/main.8482001d.js"
+  ]
+}
